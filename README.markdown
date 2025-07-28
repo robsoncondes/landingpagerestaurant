@@ -105,4 +105,4 @@ Para dúvidas ou sugestões, entre em contato:
 
 ---
 
-Feito com ❤️ por Robson Condes com ajuda @Larissakich, em 2025.
+Feito com ❤️ por Robson Condes com ajuda **[@Larissakich](https://github.com/Larissakich)**, em 2025.
